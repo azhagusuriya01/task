@@ -1,0 +1,41 @@
+
+.trak-area {
+    border: 1px solid #ffd3a2;
+    border-radius: 8px;
+    width: 30rem;
+    margin-left: 25rem;
+  }
+  .label-style {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #7e8e9f;
+    margin-left: 2rem;
+  }
+  
+  .formInputs {
+    height: 2.4rem;
+    width: 72%;
+    font-size: 1rem;
+    padding: 12px 16px;
+    display: block;
+    border: 1px solid #7e8e9f;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+  }
+  .submit-btn {
+    background-color: #8A62D3;
+    color: #fff;
+    border-radius: 8px;
+    border:none;
+    margin-top: 2rem;
+    height: 40px;
+    width: 80px;
+    font-size: 16px;
+    margin-left: 50rem;
+  }
+  
+  .myform {
+    margin: 70px;
+  }
